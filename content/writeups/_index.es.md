@@ -1,5 +1,0 @@
----
-title: "Writeups y Soluciones de SimeonOnSecurity"
-description: "Explora los writeups de SimeonOnSecurity sobre desafíos de HackTheBox, cifrados criptográficos y técnicas de ciberseguridad. Aprende y descubre flags ocultos con explicaciones paso a paso."
-tags: ["desafíos de HackTheBox", "técnicas de criptografía", "ideas sobre ciberseguridad", "decodificación de cifrados", "descifrado de tonos DTMF", "cifrados de números primos", "decodificación de cifrado Fernet", "decodificación de cifrado Malboge", "herramientas de ataque RSA", "desafío de invitación", "habilidades de penetración", "plataformas Windows y Linux", "desafíos cibernéticos", "algoritmos de seguridad", "métodos de cifrado", "rompecabezas criptográficos", "técnicas de hacking ético", "seguridad de la información", "desarrollo de habilidades cibernéticas", "writeups de seguridad", "soluciones cibernéticas", "estrategias de descifrado de flags", "métodos de criptoanálisis", "estrategias de defensa cibernética", "competencia cibernética", "recursos de ciberseguridad", "análisis de cifrados", "ideas sobre seguridad", "aprendizaje cibernético", "comunidad de ciberseguridad"]
----
