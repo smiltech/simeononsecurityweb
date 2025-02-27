@@ -1,5 +1,0 @@
----
-title: "Artículos de SimeonOnSecurity"
-description: "Tu guía personal para la ciberseguridad, tecnología de la información y automatización. Explora artículos informativos, experiencias personales y consejos de expertos para un mundo digital seguro."
-tags: ["consejos de ciberseguridad", "técnicas de automatización", "seguridad de red", "privacidad de datos", "seguridad informática", "prevención de hacking", "codificación segura", "infraestructura de red", "informática forense", "seguridad en la nube", "inteligencia de amenazas cibernéticas", "respuesta a incidentes", "evaluación de vulnerabilidades", "pruebas de penetración", "gestión de identidad", "conciencia de seguridad", "análisis de malware", "encriptación de datos", "configuración de firewall", "desarrollo web seguro", "monitoreo de red", "marcos de ciberseguridad", "seguridad en IoT", "seguridad móvil", "prevención de phishing", "mejores prácticas de ciberseguridad", "caza de amenazas", "defensa contra ingeniería social", "control de acceso", "segmentación de red"]
----

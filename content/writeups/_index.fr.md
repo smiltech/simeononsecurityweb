@@ -1,5 +1,0 @@
----
-title: "Writeups et Guide de SimeonOnSecurity"
-description: "Explorez les writeups de SimeonOnSecurity sur les défis HackTheBox, les chiffres cryptographiques et les techniques de cybersécurité. Apprenez et découvrez les flags cachés avec des explications étape par étape."
-tags: ["défis HackTheBox", "techniques de cryptographie", "découvertes en cybersécurité", "décodage de chiffres", "décryptage de tonalités DTMF", "chiffres de nombres premiers", "décodage de chiffre Fernet", "décodage de chiffre Malboge", "outils d'attaque RSA", "défi d'invitation", "compétences en test de pénétration", "plateformes Windows et Linux", "défis cybernétiques", "algorithmes de sécurité", "méthodes de chiffrement", "énigmes cryptographiques", "techniques de piratage éthique", "sécurité de l'information", "développement de compétences cybernétiques", "writeups de sécurité", "solutions cybernétiques", "stratégies de décodage de flags", "méthodes de cryptanalyse", "stratégies de défense cybernétique", "compétition cybernétique", "ressources de cybersécurité", "analyse de chiffres", "idées de sécurité", "apprentissage cybernétique", "communauté de cybersécurité"]
----
