@@ -1,8 +1,0 @@
-{{ $ads := slice "orangewebsite/orangewebsite-eager-floating.html" "pawnsapp/pawnsapp-eager-floating.html" "traffmonetizer/traffmonetizer-eager-floating.html" "presearch/presearch-eager-floating.html" "earnapp/earnapp-eager-floating.html" "amazon/audible-eager-floating.html" "amazon/audible2-eager-floating.html" "amazon/amazon-student-prime-eager-floating.html" "startmail/startmail-eager-floating.html" "startmail/startmail2-eager-floating.html" "bitdefender/bitdefender-eager-floating.html" "bitdefender/bitdefender-business-eager-floating.html"}}
-{{ $shuffledAds := shuffle $ads }}
-{{ $randomAd := index $shuffledAds 0 }}
-
-{{ if and (not .IsHome) (.IsPage) }}
-    {{ partial (printf "ads/%s" $randomAd) . }}
-{{ end }}
-

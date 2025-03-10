@@ -1,8 +1,0 @@
----
-title: "SimeonOnSecurity's CyberSecurity and IT Checklists"
-description: "SimeonOnSecurity's expert recommendations for cybersecurity and IT checklists. Find top-rated checklists for security best practices, network configurations, data protection, and more."
-tags: ["expert recommendations", "cybersecurity checklists", "IT checklists", "security best practices", "network configurations", "data protection", "cybersecurity checklists", "IT checklists", "security best practices", "network configurations", "data protection", "incident response", "vulnerability assessment", "firewall configuration", "access control", "patch management", "backup and recovery", "secure coding", "password policy", "physical security", "wireless network security", "security audit", "IT asset inventory", "cloud security", "employee training", "security incident response plan", "risk management", "compliance", "IT governance", "security frameworks", "security controls", "cybersecurity standards", "data privacy", "incident handling", "security monitoring", "threat intelligence", "penetration testing", "cybersecurity awareness", "security policies", "secure software development", "network segmentation", "intrusion detection", "security assessment", "cyber threat hunting", "data classification", "security awareness programs", "endpoint protection", "secure configurations", "network monitoring",]
-categories: ["checklists"]
-sitemap:
- priority: 0.9
----

@@ -1,5 +1,0 @@
----
-title: "Repozytoria i opisy repozytoriów SimeonOnSecurity na GitHub"
-description: "Przeglądaj nasze projekty open-source, narzędzia z zakresu bezpieczeństwa i szczegółowe wyjaśnienia. Poszerz swoją wiedzę i umiejętności z zakresu cyberbezpieczeństwa i automatyzacji dzięki opisom repozytoriów na GitHub."
-tags: ["repozytoria GitHub", "opisy repozytoriów", "projekty open-source", "narzędzia bezpieczeństwa", "wgląd w cyberbezpieczeństwo", "wgląd w automatyzację", "poradniki programowania", "wkłady do GitHub", "badania z zakresu bezpieczeństwa", "analiza kodu", "dokumentacja projektów", "poprawki błędów", "usprawnienia funkcji", "współpraca społecznościowa", "zasoby dla programistów", "recenzje kodu", "kontrola wersji", "ciągła integracja", "śledzenie problemów", "zarządzanie repozytoriami"]
----

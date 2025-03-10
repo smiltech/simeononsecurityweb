@@ -1,9 +1,0 @@
----
-title: "Cyber Security Career Playbooks"
-description: "Discover valuable insights, practical tips, and resources to embark on a successful cybersecurity career and make an impact in the ever-changing digital landscape."
-tags: ["cybersecurity career", "beginner's guide to cybersecurity", "launching a cybersecurity career", "cybersecurity job prospects", "cybersecurity salary ranges", "cybersecurity training programs", "online cybersecurity courses", "video courses for cybersecurity", "cybersecurity books", "beginners cybersecurity courses", "explain cybersecurity to a 5-year-old", "ELI5 cybersecurity", "top programming languages for cybersecurity", "cybersecurity career path", "cybersecurity expert responsibilities", "soft skills for cybersecurity", "cybersecurity industry", "cybersecurity job market", "cybersecurity certifications", "cybersecurity job demand", "cybersecurity job growth", "cybersecurity skills", "cybersecurity professional", "cybersecurity analyst", "cybersecurity specialist", "cybersecurity consultant", "cybersecurity threats", "cybersecurity best practices", "cybersecurity strategies", "cybersecurity tools", "job opportunities", "cybersecurity internships", "remote cybersecurity jobs", "continuous learning", "emerging threats", "cybersecurity network", "cybersecurity laws", "professional growth", "cybersecurity guidance", "cybersecurity community", "cybersecurity resources", "career advancement", "cybersecurity landscape", "cybersecurity knowledge"]
-categories: ["cyber-security-career-playbook"]
-project_url: "https://simeononsecurity.com/cyber-security-career-playbook-start"
-sitemap:
-  priority : 0.7
----

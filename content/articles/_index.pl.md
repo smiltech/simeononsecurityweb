@@ -1,5 +1,0 @@
----
-title: "Artykuły SimeonOnSecurity"
-description: "Twoje osobiste przewodniki po cyberbezpieczeństwie, technologii informatycznej i automatyzacji. Przeglądaj pouczające artykuły, osobiste doświadczenia i porady ekspertów na temat bezpiecznego świata cyfrowego."
-tags: ["porady z zakresu cyberbezpieczeństwa", "techniki automatyzacji", "bezpieczeństwo sieci", "ochrona danych", "bezpieczeństwo IT", "zapobieganie hakowaniu", "bezpieczne programowanie", "infrastruktura sieciowa", "śledztwo cyfrowe", "bezpieczeństwo chmury", "wywiad w zakresie cyberzagrożeń", "reagowanie na incydenty", "ocena podatności", "testy penetracyjne", "zarządzanie tożsamością", "świadomość bezpieczeństwa", "analiza złośliwego oprogramowania", "szyfrowanie danych", "konfiguracja zapory ogniowej", "bezpieczne tworzenie stron internetowych", "monitorowanie sieci", "ramy cyberbezpieczeństwa", "bezpieczeństwo IoT", "bezpieczeństwo mobilne", "zapobieganie phishingowi", "najlepsze praktyki w zakresie cyberbezpieczeństwa", "polowanie na zagrożenia", "obrona przed inżynierią społeczną", "kontrola dostępu", "segmentacja sieci"]
----

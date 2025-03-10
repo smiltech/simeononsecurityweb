@@ -1,5 +1,0 @@
----
-title: "Empfehlungen von SimeonOnSecurity"
-description: "SimeonOnSecurity's Expertenempfehlungen für Sicherheits- und Datenschutzprodukte. Finden Sie erstklassige Software, Bücher, Plugins, Anbieter und mehr."
-tags: ["Expertenempfehlungen", "Sicherheitsprodukte", "Datenschutzressourcen", "Anti-Virus-Software", "Lernmaterialien", "Browser-Plugins", "Mobilfunkanbieter", "professionelle Zertifizierungen", "sichere E-Mail-Anbieter", "Everyday Carry-Artikel", "Hacker-Toolkit", "Kopfhörer", "Mikrofone", "Lautsprecher", "Lernressourcen", "Messenger-Clients", "Organisationen zur Unterstützung", "Sicherheitskreatoren", "Dienstleistungsanbieter", "VPN-Anbieter", "Webcams", "Datenschutzwerkzeuge", "Erstklassige Produkte", "Sichere Kommunikation", "Datenschutz", "Netzwerksicherheit", "Audiogeräte", "Video-Konferenz"]
----

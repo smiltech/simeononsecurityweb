@@ -1,5 +1,0 @@
----
-title: "Guias da SimeonOnSecurity"
-description: "Explore técnicas avançadas, tutoriais práticos e insights de especialistas em áreas como controle de versão, administração de sistemas, práticas de cibersegurança, gerenciamento de rede e desenvolvimento de software. Adquira conhecimento valioso e aprimore suas habilidades com nossos guias detalhados."
-tags: ["guias avançados", "tutoriais técnicos", "controle de versão", "atualizações do Linux", "gerenciamento de servidores", "linha de comando", "técnicas de programação", "desenvolvimento de software", "administração de rede", "práticas de cibersegurança", "atualizações do sistema", "acesso remoto", "administração do Linux", "configurações de segurança", "solução de problemas", "melhores práticas de codificação", "gerenciamento de código-fonte", "manutenção do sistema", "segurança de rede", "atualizações de firmware", "configuração do sistema", "infraestrutura de TI", "atualizações de software", "comandos do Linux", "gerenciamento de rede", "otimização do sistema", "habilidades de programação", "automação", "proteção de dados", "manutenção do servidor", "protocolos de rede"]
----

@@ -1,5 +1,0 @@
----
-title: "Aanbevelingen van SimeonOnSecurity"
-description: "De deskundige aanbevelingen van SimeonOnSecurity voor beveiligings- en privacyproducten. Vind hoogwaardige software, boeken, plugins, providers en meer."
-tags: ["deskundige aanbevelingen", "beveiligingsproducten", "privacybronnen", "anti-virus software", "leermaterialen", "browser plugins", "mobiele telefoniedienstverleners", "professionele certificeringen", "beveiligde e-mailproviders", "dagelijkse benodigdheden", "hackerstoolkit", "koptelefoons", "microfoons", "luidsprekers", "leerbronnen", "messengerclients", "organisaties om te ondersteunen", "beveiligingsmakers", "dienstverleners", "VPN-providers", "webcams", "privacyverhogende tools", "hoogwaardige producten", "veilige communicatie", "gegevensbescherming", "netwerkbeveiliging", "audio-apparatuur", "videoconferenties"]
----

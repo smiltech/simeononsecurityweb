@@ -1,13 +1,0 @@
----
-title: 'Ultimate Applocker Hardening Configuration Script: Boost Windows Security'
-date: 2020-11-19
-toc: true
-draft: false
-description: "Protect your Windows system against malicious attacks by using the Ultimate Applocker Hardening Configuration Script."
-tags: ["Windows security", "Applocker", "Configuration script", "Cybersecurity", "Malware protection", "Threat prevention", "PowerShell script", "Microsoft recommended block rules", "Compliance", "NSA Cyber Bitlocker Guidance", "Application control", "Hardening Windows", "Cyber threats", "Computer protection", "Cyber defense", "Secure Windows", "Ultimate Applocker ByPass List", "Windows Defender", "System lockdown", "sos-applockerhardening.ps1"]
----
-```powershell
-\sos-applockerhardening.ps1
-```
-
- يعد الأمن أحد أهم جوانب تشغيل نظام. Windows هو نظام التشغيل الأكثر شيوعًا في العالم ، مما يعني أنه استمرارًا من قبل مجرمي الإنترنت. أن تقوم بتعديل تلك الإجراءات التي تتبعها تلك الهيئة.  ## ما هو البرنامج لتهيئة أقصى صلابة Applocker؟  البرنامج لتهيئة Ultimate Applocker Hardening Configuration Script هو برنامج نصي من PowerShell العنوان إلى زيادة أمان نظام Windows لديك. يقوم البرنامج بتأمين موارد النظام إلى الحد الأدنى المطلوب لو إثنين نظام التشغيل الأساسي. يقوم البرنامج بتكوينها ، قم بتنفيذها ، قم بإنجازها من Microsoft و NSA Cyber Bitlocker Guidance. حظي ذلك الأعضاء التابعة للأمم المتحدة.  ## كيفية استخدام الهيئة لتهيئة الهيئة في نهاية المطاف تصلب Applocker  لاستخدام البرنامج لتهيئة Ultimate Applocker Hardening ، تحتاج إلى تنزيل الملفات المطلوبة من [GitHub Repository] (https://github.com/simeononsecurity/Applocker-Hardening). يمكنك تشغيل البرنامج من برنامج تنزيله من المستخرج. يمكن استخدام الأمر التالي ؛   ## اقتراحات للقراءة  إذا كنت ترغب في معرفة المزيد حول البرنامج لتهيئة البث النهائي منها ، أو تصلب أو تصلب Windows.  - [api0cradle / UltimateAppLockerByPassList)] (https://github.com/api0cradle/UltimateAppLockerByPassList) - [قواعد الحظر بها من Microsoft] (https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) - [MotiBa / AppLocker] (https://github.com/MotiBa/AppLocker) - [أرشفة NSA Cyber Bitlocker] (https://github.com/nsacyber/AppLocker-Guidance)  ## خاتمة  في الختام ، يعد Ultimate Applocker Hardening Configuration Configuration Tool. من Microsoft و NSA Cyber Bitlocker Guidance ، يمكنك التحكم في التحكم في التطبيق. وزيارته ، وزيارته ، وزيارته ، وزيارته.

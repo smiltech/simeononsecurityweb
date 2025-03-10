@@ -1,5 +1,0 @@
----
-title: "SimeonOnSecurity's Artikel"
-description: "Ihr persönlicher Leitfaden für Cybersicherheit, Informationstechnologie und Automatisierung. Entdecken Sie informative Artikel, persönliche Erfahrungen und Expertentipps für eine sichere digitale Welt."
-tags: ["Cybersicherheitstipps", "Automatisierungstechniken", "Netzwerksicherheit", "Datenschutz", "IT-Sicherheit", "Hacking-Prävention", "Sichere Codierung", "Netzwerkinfrastruktur", "Digitale Forensik", "Cloud-Sicherheit", "Cyber-Bedrohungsinformationen", "Vorfälle bearbeiten", "Vulnerability Assessment", "Penetrationstests", "Identitätsmanagement", "Sicherheitsbewusstsein", "Malware-Analyse", "Datenverschlüsselung", "Firewall-Konfiguration", "Sichere Webentwicklung", "Netzwerküberwachung", "Cybersicherheits-Frameworks", "IoT-Sicherheit", "Mobile Sicherheit", "Phishing-Prävention", "Best Practices in der Cybersicherheit", "Threat Hunting", "Abwehr von Social Engineering", "Zugriffskontrolle", "Netzwerksegmentierung"]
----

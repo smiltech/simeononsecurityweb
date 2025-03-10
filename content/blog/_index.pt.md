@@ -1,5 +1,0 @@
----
-title: "Blog da SimeonOnSecurity"
-description: "Explore as experiências pessoais e dicas de especialistas da SimeonOnSecurity."
-tags: ["dicas de cibersegurança", "técnicas de automação", "segurança de rede", "privacidade de dados", "segurança de TI", "prevenção de hacking", "codificação segura", "infraestrutura de rede", "forense digital", "segurança em nuvem", "inteligência de ameaças cibernéticas", "resposta a incidentes", "avaliação de vulnerabilidades", "teste de penetração", "gerenciamento de identidade", "conscientização em segurança", "análise de malware", "criptografia de dados", "configuração de firewall", "desenvolvimento web seguro", "monitoramento de rede", "frameworks de cibersegurança", "segurança IoT", "segurança móvel", "prevenção de phishing", "boas práticas de cibersegurança", "caça a ameaças", "defesa contra engenharia social", "controle de acesso", "segmentação de rede"]
----

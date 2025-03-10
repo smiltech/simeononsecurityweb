@@ -1,5 +1,0 @@
----
-title: "Repositorios y Documentos de SimeonOnSecurity en GitHub"
-description: "Explora nuestros proyectos de código abierto, herramientas de seguridad y explicaciones detalladas. Mejora tu conocimiento y habilidades en ciberseguridad y automatización con nuestros documentos de repositorios en GitHub."
-tags: ["repositorios de GitHub", "documentos de repositorio", "proyectos de código abierto", "herramientas de seguridad", "conocimientos en ciberseguridad", "conocimientos en automatización", "tutoriales de programación", "contribuciones en GitHub", "investigación de seguridad", "análisis de código", "documentación de proyectos", "correcciones de errores", "mejoras de funciones", "colaboración comunitaria", "recursos para desarrolladores", "revisiones de código", "control de versiones", "integración continua", "seguimiento de problemas", "gestión de repositorios"]
----

@@ -1,5 +1,0 @@
----
-title: "Aujourd'hui j'ai appris chez SimeonOnSecurity (AJA)"
-description: "Explorez la page 'Aujourd'hui j'ai appris' de SimeonOnSecurity pour des insights quotidiens et des découvertes en cybersécurité, technologie et automatisation."
-tags: ["insights quotidiens", "partage de connaissances", "découvertes en cybersécurité", "insights technologiques", "leçons d'automatisation", "apprentissage continu", "croissance personnelle", "accumulation de connaissances", "nouvelles découvertes", "parcours d'apprentissage", "mises à jour technologiques", "tendances en cybersécurité", "insights techniques", "apprentissages quotidiens", "plateforme de partage de connaissances", "contenu éducatif", "développement personnel", "expériences d'apprentissage", "avancées technologiques", "conseils en cybersécurité"]
----

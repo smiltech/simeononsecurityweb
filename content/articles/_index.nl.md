@@ -1,5 +1,0 @@
----
-title: "Artikelen van SimeonOnSecurity"
-description: "Uw persoonlijke gids voor cybersecurity, informatietechnologie en automatisering. Verken informatieve artikelen, persoonlijke ervaringen en deskundige tips voor een veilige digitale wereld."
-tags: ["cybersecuritytips", "automatiseringstechnieken", "netwerkbeveiliging", "gegevensprivacy", "IT-beveiliging", "hackingpreventie", "veilige codering", "netwerkinfrastructuur", "digitale forensica", "cloudbeveiliging", "cyberdreigingsinformatie", "incidentrespons", "kwetsbaarheidsevaluatie", "penetratietests", "identiteitsbeheer", "beveiligingsbewustzijn", "malware-analyse", "gegevensversleuteling", "firewallconfiguratie", "veilige webontwikkeling", "netwerkmonitoring", "cybersecurityframeworks", "IoT-beveiliging", "mobiele beveiliging", "phishingpreventie", "best practices voor cybersecurity", "bedreigingsjacht", "verdediging tegen sociale techniek", "toegangsbeheer", "netwerksegmentatie"]
----

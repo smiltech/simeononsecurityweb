@@ -1,4 +1,0 @@
-{{- $filePath := .Get 0 -}}
-{{- with readFile $filePath -}}
-{{ . | safeHTML }}
-{{- end -}}

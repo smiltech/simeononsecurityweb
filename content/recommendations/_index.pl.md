@@ -1,5 +1,0 @@
----
-title: "Rekomendacje SimeonOnSecurity"
-description: "Ekspertowe rekomendacje SimeonOnSecurity dotyczące produktów z zakresu bezpieczeństwa i prywatności. Znajdź wysoko ocenione oprogramowanie, książki, wtyczki, dostawców i wiele więcej."
-tags: ["ekspertowe rekomendacje", "produkty z zakresu bezpieczeństwa", "zasoby prywatności", "oprogramowanie antywirusowe", "materiały edukacyjne", "wtyczki do przeglądarek", "dostawcy usług telefonii komórkowej", "certyfikacje zawodowe", "dostawcy bezpiecznej poczty elektronicznej", "codzienne przedmioty", "narzędzia hakera", "słuchawki", "mikrofony", "głośniki", "zasoby edukacyjne", "klienty komunikatorów", "organizacje do wsparcia", "twórcy bezpieczeństwa", "dostawcy usług", "dostawcy VPN", "kamery internetowe", "narzędzia poprawiające prywatność", "produkty wysoko oceniane", "bezpieczna komunikacja", "ochrona danych", "bezpieczeństwo sieci", "sprzęt audio", "wideokonferencje"]
----
